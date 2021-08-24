@@ -1,0 +1,6 @@
+.footerzinho{
+    grid-area: footer;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #fffbef;
+  }

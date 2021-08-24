@@ -1,0 +1,12 @@
+.headerzinho{
+    grid-area: header;
+    justify-content: space-between;
+    margin-right: 34px;
+    width: 100%;
+    height: 61px;
+    background-color: #fffbef;
+    font-family: var(--Open Sans Condensed Bold);
+    font-size: 26px;
+    text-decoration: none;
+    color: #101010;
+}
